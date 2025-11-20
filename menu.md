@@ -23,3 +23,5 @@ Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨
 [Carne acebolada na chapa](carnes/carne-acebolada-na-chapa.md)  
 [Brigadeiro tradicional](sobremesa/brigadeiro-tradicional.md)  
 [Pave de maracuja](sobremesa/pave-de-maracuja.md) 
+[saladacommit](saladas/saladamit.md)
+[salada tradicional](saladas/saladaTradicional.md)
