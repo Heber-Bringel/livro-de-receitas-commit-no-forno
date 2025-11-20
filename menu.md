@@ -22,4 +22,7 @@ Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨
 [File Parmegiana](carnes/file-parmegiana.md)  
 [Carne acebolada na chapa](carnes/carne-acebolada-na-chapa.md)  
 [Brigadeiro tradicional](sobremesa/brigadeiro-tradicional.md)  
-[Pave de maracuja](sobremesa/pave-de-maracuja.md) 
+[Pave de maracuja](sobremesa/pave-de-maracuja.md)   
+[Salada gourmet](saladas/saladamit.md)  
+[Salada tradicional](saladas/saladaTradicional.md)  
+[Drink de morango](bebidas/drink-de-morango.md)
