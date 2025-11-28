@@ -34,6 +34,7 @@ Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨
 - [Drink de Morango](bebidas/drink-de-morango.md)  
 - [Bloody Mary](bebidas/bloody-mary.md)
 - [Drink Tropical de Abacaxi com Hortelã](bebidas/drink-tropical-de-abacaxi-com-hortela.md)
+- [Dry Martini (Clássico)](bebidas/dry-martini.md)
 
 ---
 
