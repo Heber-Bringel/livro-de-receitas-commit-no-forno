@@ -29,5 +29,5 @@ Uma sobremesa clássica, rápida e extremamente saborosa — perfeita para qualq
 ---
 
 ## 🔗 Navegação
-- 👉 **[Ver outras sobremesas](../sobremesas/)**  
+- 👉 **[Voltar à Categoria](.)**  
 - 🏠 **[Voltar ao menu principal](../menu.md)**  
