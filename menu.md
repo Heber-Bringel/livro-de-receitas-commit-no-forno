@@ -28,6 +28,7 @@ Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨
 - [Pavê de Limao](sobremesa/pave-de-limao.md)
 
 ### 🥗 Saladas
+- [Salada de Batata com Rúcula](saladas/salada-de-batata-e-rucula.md)
 - [Salada Gourmet](saladas/saladamit.md)  
 - [Salada Tradicional](saladas/saladaTradicional.md)
 
