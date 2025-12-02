@@ -28,6 +28,6 @@ Uma sobremesa clássica, rápida e extremamente saborosa — perfeita para qualq
 
 ---
 
-## 🔗 Navegação
-- 👉 **[Voltar à Categoria](.)**  
-- 🏠 **[Voltar ao menu principal](../menu.md)**  
+
+[Voltar à Categoria](.)  
+[Voltar ao Menu Principal](../menu.md)
