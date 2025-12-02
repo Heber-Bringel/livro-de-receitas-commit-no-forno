@@ -25,6 +25,7 @@ Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨
 ### 🍰 Sobremesas
 - [Brigadeiro Tradicional](sobremesa/brigadeiro-tradicional.md)  
 - [Pavê de Maracujá](sobremesa/pave-de-maracuja.md)
+- [Pavê de Limao](sobremesa/pave-de-limao.md)
 
 ### 🥗 Saladas
 - [Salada Gourmet](saladas/saladamit.md)  
