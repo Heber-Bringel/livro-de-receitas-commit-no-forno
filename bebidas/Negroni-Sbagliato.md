@@ -1,4 +1,4 @@
-# **Negroni Sbagliato Elegante**
+# 🍷 Negroni Sbagliato 
 
 Um clássico italiano modernizado, sofisticado e incrivelmente fácil de preparar. Perfeito para um jantar especial ou para brindar com estilo.
 
@@ -59,3 +59,8 @@ Expresse uma **casca de laranja** sobre a superfície do drink para liberar os �
 > **Dica profissional:** Sirva imediatamente após preparar, enquanto as bolhas ainda estão ativas. Use sempre ingredientes de qualidade — a simplicidade da receita exalta cada elemento.
 
 **Saúde!** 🥂
+
+---
+
+[Voltar à Categoria](.)  
+[Voltar ao Menu Principal](../menu.md)
