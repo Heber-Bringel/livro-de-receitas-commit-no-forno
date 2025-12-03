@@ -26,6 +26,8 @@ Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨
 - [Brigadeiro Tradicional](sobremesa/brigadeiro-tradicional.md)  
 - [Pavê de Maracujá](sobremesa/pave-de-maracuja.md)
 - [Pavê de Limao](sobremesa/pave-de-limao.md)
+- [🍫 Brigadeirão Cremoso](sobremesa/brigadeirao-cremoso.md)
+
 
 ### 🥗 Saladas
 - [Salada de Batata com Rúcula](saladas/salada-de-batata-e-rucula.md)
