@@ -12,6 +12,18 @@ Contribuidores externos que participaram seguindo os padrões definidos pelo gru
 - **Micael Cardoso Reis** — *Ghostyxseven*  
   ➝ Contribuiu muito bem, respeitando todas as diretrizes do projeto.
 
+- **Paulo Henrique Sales Lima** — *phsalesreddev99-glitch*  
+  ➝ Contribuiu muito bem, respeitando todas as diretrizes do projeto.
+
+- **Wesley Tiago Medeiros Lustosa** — *WesleyTiagg*  
+  ➝ Contribuição de excelente qualidade, alinhada aos nossos padrões.
+
+- **Geovany de Oliveira Silva Batista** — *geovanysilvaa*  
+  ➝ Contribuiu de forma significativa ao repositório, mantendo o padrão estabelecido.
+
+- **Ryan Fortes Gomes** — *ryangomes-cel*  
+  ➝ Contribuição de excelente qualidade, alinhada aos nossos padrões.
+
 ---
 
 ## 🧪 Responsáveis pelas Revisões
