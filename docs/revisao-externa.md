@@ -21,6 +21,9 @@ Contribuidores externos que participaram seguindo os padrões definidos pelo gru
 - **Geovany de Oliveira Silva Batista** — *geovanysilvaa*  
   ➝ Contribuiu de forma significativa ao repositório, mantendo o padrão estabelecido.
 
+- **Ryan Fortes Gomes** — *ryangomes-cel*  
+  ➝ Contribuição de excelente qualidade, alinhada aos nossos padrões.
+
 ---
 
 ## 🧪 Responsáveis pelas Revisões
