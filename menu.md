@@ -39,6 +39,7 @@ Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨
 - [Bloody Mary](bebidas/bloody-mary.md)
 - [Drink Tropical de Abacaxi com Hortelã](bebidas/drink-tropical-de-abacaxi-com-hortela.md)
 - [Dry Martini (Clássico)](bebidas/dry-martini.md)
+- [Negroni Sbagliato](bebidas/Negroni-Sbagliato.md)
 
 ---
 
